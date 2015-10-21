@@ -103,6 +103,7 @@ h3{
 #headerwrap {
 
   background: url(bg.jpg);
+  background-size:cover;
   margin-top: 35px;
 	padding-top: 240px;
 	background-attachment: relative;
